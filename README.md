@@ -11,3 +11,4 @@ Proyek ini menggunakan logika fuzzy untuk mengatur kecepatan kipas AC berdasarka
 1. Pastikan Python 3.x telah terinstal di komputer Anda.
 2. Install pustaka yang dibutuhkan, termasuk `scikit-fuzzy` dan `matplotlib`, dengan perintah:
 
+https://github.com/Muhamadhidayatulloh/Sistem-Pengaturan-AC-Otomatis.git
